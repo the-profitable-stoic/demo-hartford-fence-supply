@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Hartford Fence Supply",
+    "phone": "+18132552933",
+    "category": "fence company",
+    "city": "Tampa",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Tampa's Trusted Fence Experts",
+      "heroSubline": "Hartford Fence Supply delivers durable, beautiful fences across the Tampa Bay area. Protecting your property is our top priority.",
+      "aboutTitle": "Built on Trust, Fortified by Quality",
+      "aboutText": [
+        "Hartford Fence Supply started with a simple goal: to provide Tampa homeowners and businesses with fences that stand the test of time. We saw too many flimsy, poorly installed fences succumbing to Florida's harsh climate, and we knew we could do better.",
+        "Our approach is straightforward: quality materials, expert craftsmanship, and unwavering commitment to customer satisfaction. We don't cut corners, and we treat every project as if it were for our own home. That means meticulous attention to detail, from initial consultation to final inspection.",
+        "We're proud to be a part of the Tampa community. We live and work here, and we're invested in making our neighborhoods safer and more beautiful, one fence at a time. We source locally whenever possible and actively support local initiatives."
+      ],
+      "valueProps": [
+        {
+          "title": "Built to Last",
+          "description": "We use only premium materials designed to withstand Tampa's heat, humidity, and hurricane season."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced crews ensure precise and secure installation for long-lasting performance."
+        },
+        {
+          "title": "Custom Solutions",
+          "description": "We tailor every fence to your specific needs, property, and aesthetic preferences."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "You'll receive a detailed, upfront quote with no hidden fees or surprises."
+        }
+      ],
+      "ctaHeadline": "Secure Your Property Today",
+      "ctaSubline": "Get a free, no-obligation quote for your Tampa fence project."
+    },
+    "services": [
+      {
+        "slug": "wood-fences",
+        "name": "Wood Fences",
+        "shortDescription": "Classic wood fences offering privacy and natural beauty for your Tampa property.",
+        "description": "Wood fences remain a popular choice for Tampa residents seeking a balance of affordability, aesthetics, and privacy. We offer a variety of wood types, including pressure-treated pine, cedar, and cypress, each selected for its ability to withstand Florida's humid climate and resist insect damage. Our wood fences are built to last, with sturdy posts, properly spaced pickets, and expert staining or sealing to protect against the elements.\n\nWhether you prefer the rustic charm of a traditional picket fence or the solid privacy of a board-on-board design, we can customize your wood fence to complement your home's architecture and landscaping. We handle everything from permitting to cleanup, ensuring a hassle-free experience. Considering Tampa's afternoon thunderstorms and potential hurricane winds, we reinforce our wood fences with extra bracing and deep post settings, providing maximum stability and security.\n\nWe also offer routine maintenance and repair services to keep your wood fence looking its best for years to come. From replacing damaged pickets to restaining faded surfaces, we're here to help you protect your investment.",
+        "process": [
+          "Step 1: Consultation and design to match your style and needs.",
+          "Step 2: Material selection, choosing the best wood for Tampa's climate.",
+          "Step 3: Professional installation with reinforced posts and bracing.",
+          "Step 4: Staining or sealing to protect against weather and pests."
+        ],
+        "benefits": [
+          "Enhanced privacy",
+          "Natural aesthetic appeal",
+          "Cost-effective fencing solution",
+          "Customizable designs"
+        ],
+        "faq": [
+          {
+            "question": "How long will a wood fence last in Tampa?",
+            "answer": "With proper maintenance, a well-built wood fence can last 10-15 years in Tampa. Regular staining and sealing are crucial."
+          },
+          {
+            "question": "What type of wood is best for Florida's climate?",
+            "answer": "Pressure-treated pine and cedar are excellent choices due to their resistance to rot, insects, and moisture."
+          },
+          {
+            "question": "Can you match my existing fence style?",
+            "answer": "Yes, we can replicate most fence styles and designs to ensure a seamless look for your property."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fences",
+        "name": "Vinyl Fences",
+        "shortDescription": "Low-maintenance vinyl fences providing lasting beauty and durability for Tampa homes.",
+        "description": "Vinyl fences are an increasingly popular choice for Tampa homeowners seeking a durable, low-maintenance fencing solution. Unlike wood, vinyl won't rot, warp, or splinter, and it never needs painting or staining. This makes it an ideal option for Florida's humid climate and frequent rain.\n\nWe offer a wide range of vinyl fence styles, from traditional picket fences to privacy fences and decorative accents. Our vinyl fences are made from high-quality, UV-resistant materials that won't fade or discolor in the Florida sun. They're also incredibly easy to clean – simply hose them down to remove dirt and grime.\n\nConsidering the salt air corrosion prevalent near Tampa's coastal areas, vinyl fences offer a significant advantage over metal alternatives. They're resistant to rust and corrosion, ensuring a long-lasting, attractive barrier for your property. We install our vinyl fences with reinforced posts and secure locking mechanisms, providing superior strength and stability against strong winds and potential impacts.",
+        "process": [
+          "Step 1: Site assessment and precise measurements.",
+          "Step 2: Selection of vinyl style and color to match your home.",
+          "Step 3: Professional installation with reinforced posts.",
+          "Step 4: Final inspection to ensure quality and satisfaction."
+        ],
+        "benefits": [
+          "Low maintenance",
+          "Weather resistance",
+          "Variety of styles",
+          "Long lifespan"
+        ],
+        "faq": [
+          {
+            "question": "Will a vinyl fence fade in the Florida sun?",
+            "answer": "Our vinyl fences are made with UV-resistant materials to prevent fading and discoloration."
+          },
+          {
+            "question": "How do I clean my vinyl fence?",
+            "answer": "Simply hose it down with water or use a mild soap and water solution for tougher stains."
+          },
+          {
+            "question": "Are vinyl fences more expensive than wood fences?",
+            "answer": "The initial cost may be higher, but vinyl fences offer long-term savings due to their low maintenance requirements."
+          }
+        ]
+      },
+      {
+        "slug": "aluminum-fences",
+        "name": "Aluminum Fences",
+        "shortDescription": "Elegant and strong aluminum fences, perfect for pool enclosures and decorative boundaries in Tampa.",
+        "description": "Aluminum fences offer a blend of elegance, strength, and low maintenance, making them a popular choice for pool enclosures, decorative boundaries, and security fences in Tampa. Unlike iron, aluminum won't rust, making it an ideal option for Florida's humid and salty coastal environment.\n\nWe offer a variety of aluminum fence styles, from classic ornamental designs to sleek, modern profiles. Our aluminum fences are powder-coated for a durable, long-lasting finish that resists chipping, scratching, and fading. They're also available in a range of colors to complement your home's architecture and landscaping.\n\nAluminum fences are particularly well-suited for pool enclosures, as they meet strict safety codes while providing an unobstructed view of the pool area. They're also a great choice for homeowners who want to add a touch of sophistication to their property without the high maintenance requirements of other fencing materials. We ensure all installations meet Tampa's building codes and HOA requirements.",
+        "process": [
+          "Step 1: Design consultation and layout planning.",
+          "Step 2: Selection of aluminum style and color.",
+          "Step 3: Precise installation adhering to safety codes.",
+          "Step 4: Final inspection and quality assurance."
+        ],
+        "benefits": [
+          "Rust-resistant",
+          "Elegant designs",
+          "Low maintenance",
+          "Pool code compliance"
+        ],
+        "faq": [
+          {
+            "question": "Are aluminum fences strong enough for security?",
+            "answer": "Yes, our aluminum fences are constructed with high-strength alloys and secure locking mechanisms for added security."
+          },
+          {
+            "question": "Can I customize the height and style of my aluminum fence?",
+            "answer": "Yes, we offer a wide range of customization options to meet your specific needs and preferences."
+          },
+          {
+            "question": "Do aluminum fences require any maintenance?",
+            "answer": "Aluminum fences require very little maintenance. Simply rinse them with water occasionally to remove dirt and debris."
+          }
+        ]
+      },
+      {
+        "slug": "chain-link-fences",
+        "name": "Chain Link Fences",
+        "shortDescription": "Affordable and practical chain link fences for security and boundary definition in Tampa.",
+        "description": "Chain link fences are a cost-effective and practical solution for securing properties and defining boundaries in Tampa. Known for their durability and versatility, chain link fences are suitable for residential, commercial, and industrial applications.\n\nWe offer a variety of chain link fence options, including galvanized steel and vinyl-coated chain link, to meet your specific needs and budget. Our galvanized steel chain link fences provide excellent corrosion resistance, while our vinyl-coated options offer added protection and a more aesthetically pleasing appearance. Considering Tampa's climate, we recommend vinyl-coated chain link, especially near the coast, to combat salt air corrosion.\n\nChain link fences are easy to install and require minimal maintenance. They're also a great option for pet containment and creating secure play areas for children. We ensure all our chain link fences are installed with sturdy posts and secure fittings to withstand strong winds and potential impacts. We also offer privacy slats to enhance the privacy and security of your chain link fence.",
+        "process": [
+          "Step 1: Site survey and boundary marking.",
+          "Step 2: Selection of chain link gauge and coating.",
+          "Step 3: Professional installation with secure posts.",
+          "Step 4: Final inspection and tension adjustment."
+        ],
+        "benefits": [
+          "Affordable",
+          "Durable",
+          "Versatile",
+          "Easy to install"
+        ],
+        "faq": [
+          {
+            "question": "How long will a chain link fence last in Tampa?",
+            "answer": "A well-maintained chain link fence can last 20-30 years in Tampa, especially with a vinyl coating."
+          },
+          {
+            "question": "Can I add privacy to my chain link fence?",
+            "answer": "Yes, we offer privacy slats in a variety of colors to enhance the privacy of your chain link fence."
+          },
+          {
+            "question": "What gauge of chain link is best for security?",
+            "answer": "A lower gauge number indicates a thicker, stronger wire, which is more suitable for security applications."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair",
+        "name": "Fence Repair & Maintenance",
+        "shortDescription": "Expert fence repair services to restore and extend the life of your Tampa fence.",
+        "description": "Even the most durable fences can suffer damage from Tampa's harsh weather, accidents, or simple wear and tear. Hartford Fence Supply offers comprehensive fence repair and maintenance services to restore your fence to its original condition and extend its lifespan.\n\nOur experienced technicians can handle a wide range of fence repairs, including replacing broken posts, repairing damaged pickets, mending gates, and reinforcing weakened sections. We work with all types of fencing materials, including wood, vinyl, aluminum, and chain link. Understanding the common issues Tampa fences face, such as wood rot from humidity and corrosion from salt air, we use materials and techniques designed for lasting repairs.\n\nRegular maintenance is essential for preventing costly repairs and ensuring the longevity of your fence. We offer maintenance services such as staining and sealing wood fences, cleaning vinyl fences, and inspecting and tightening hardware on all types of fences. Whether you need a minor repair or a complete fence overhaul, we're here to help you protect your investment.",
+        "process": [
+          "Step 1: Thorough inspection to assess damage.",
+          "Step 2: Detailed repair plan and cost estimate.",
+          "Step 3: Professional repairs using quality materials.",
+          "Step 4: Final inspection and quality assurance."
+        ],
+        "benefits": [
+          "Extends fence lifespan",
+          "Restores security",
+          "Improves aesthetics",
+          "Prevents costly replacements"
+        ],
+        "faq": [
+          {
+            "question": "How often should I maintain my fence in Tampa?",
+            "answer": "We recommend inspecting your fence at least twice a year and performing maintenance as needed."
+          },
+          {
+            "question": "Can you repair a fence damaged by a hurricane?",
+            "answer": "Yes, we have experience repairing fences damaged by hurricanes and other severe weather events."
+          },
+          {
+            "question": "Do you offer emergency fence repair services?",
+            "answer": "Yes, we offer emergency fence repair services for urgent situations, such as storm damage or security breaches."
+          }
+        ]
+      },
+      {
+        "slug": "gate-installation-repair",
+        "name": "Gate Installation & Repair",
+        "shortDescription": "Secure and stylish gate solutions for residential and commercial properties in Tampa.",
+        "description": "A well-designed and properly functioning gate is essential for security, privacy, and convenience. Hartford Fence Supply offers comprehensive gate installation and repair services for residential and commercial properties in Tampa.\n\nWe install a variety of gate types, including swing gates, sliding gates, and automatic gates, to meet your specific needs and preferences. Our gates are constructed with high-quality materials and hardware to ensure durability and reliability. We also offer a range of gate operators and access control systems for added convenience and security.\n\nIn addition to new gate installations, we also provide expert gate repair services. Our technicians can repair damaged gate frames, replace broken hinges, adjust gate alignment, and troubleshoot gate operator issues. From sagging gates to malfunctioning automatic openers, we have the expertise to get your gate working smoothly again. Given Tampa's humidity, we prioritize rust-resistant hardware and proper drainage to prevent gate issues.",
+        "process": [
+          "Step 1: Site assessment and gate design.",
+          "Step 2: Selection of gate materials and hardware.",
+          "Step 3: Professional installation and alignment.",
+          "Step 4: Testing and adjustment for smooth operation."
+        ],
+        "benefits": [
+          "Enhanced security",
+          "Improved convenience",
+          "Increased property value",
+          "Customizable designs"
+        ],
+        "faq": [
+          {
+            "question": "What type of gate is best for my property?",
+            "answer": "The best type of gate depends on your specific needs, budget, and property layout. We can help you choose the right gate for your situation."
+          },
+          {
+            "question": "Can you install an automatic gate opener on my existing gate?",
+            "answer": "Yes, we can install an automatic gate opener on most existing gates, provided they are in good condition."
+          },
+          {
+            "question": "Do you offer warranties on your gate installations?",
+            "answer": "Yes, we offer warranties on our gate installations and repairs to ensure your satisfaction."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "St. Petersburg",
+        "slug": "st-petersburg-fl",
+        "state": "FL",
+        "content": "Hartford Fence Supply is proud to offer our expert fence installation and repair services to the residents and businesses of St. Petersburg, Florida. From the charming 1920s-50s Florida cottage homes in historic neighborhoods to modern waterfront properties, we understand the unique aesthetic and security needs of this vibrant city. We offer a wide range of fencing options, including wood, vinyl, aluminum, and chain-link, to complement the diverse architectural styles found throughout St. Pete. \n\nOur experienced team is well-versed in the local building codes and permitting processes, ensuring a smooth and hassle-free experience for our customers. We know that the hot, humid summers in St. Petersburg can be tough on fences, so we use only high-quality materials and construction techniques to ensure long-lasting durability and resistance to the elements. Whether you're looking to enhance your curb appeal, create a safe and secure backyard for your family, or protect your commercial property, Hartford Fence Supply is here to help.",
+        "localContext": "St. Petersburg boasts a rich history and diverse architectural landscape, from quaint cottage homes to modern developments, all requiring specific fencing solutions.",
+        "nearbyAreas": [
+          "Tampa",
+          "Clearwater",
+          "Pinellas Park"
+        ]
+      },
+      {
+        "city": "Clearwater",
+        "slug": "clearwater-fl",
+        "state": "FL",
+        "content": "Hartford Fence Supply is your trusted fence contractor in Clearwater, Florida. We provide top-quality fence installation and repair services to homeowners and businesses throughout the area. Clearwater's mix of 1960s-70s ranch homes and newer developments requires a variety of fencing styles to match the existing architecture and landscaping. We offer a wide selection of fence materials, including vinyl, wood, aluminum, and chain-link, to suit any taste and budget.\n\nWe understand the challenges of the Florida climate and use only durable, weather-resistant materials to ensure that your fence will withstand the test of time. Our experienced installers are familiar with local building codes and regulations, guaranteeing a seamless installation process. From enhancing your privacy to securing your property, Hartford Fence Supply is committed to providing Clearwater residents with exceptional fencing solutions.",
+        "localContext": "Clearwater's blend of mid-century ranch homes and coastal properties calls for durable and aesthetically pleasing fencing options to enhance privacy and security.",
+        "nearbyAreas": [
+          "Dunedin",
+          "Largo",
+          "Palm Harbor"
+        ]
+      },
+      {
+        "city": "Brandon",
+        "slug": "brandon-fl",
+        "state": "FL",
+        "content": "Hartford Fence Supply is dedicated to providing the residents of Brandon, Florida, with the highest quality fence installation and repair services. As a growing suburban community with many 1980s-90s developments, Brandon offers a diverse range of properties, each with unique fencing needs. Whether you're looking to enclose your backyard, create a pet-friendly space, or add security to your home, we have the perfect fencing solution for you.\n\nWe offer a variety of fence styles, including wood privacy fences, vinyl picket fences, aluminum decorative fences, and chain-link security fences. Our experienced team will work with you to choose the right fence material and design to complement your home and meet your specific needs. We understand the importance of quality workmanship and use only the best materials to ensure that your fence will last for years to come.",
+        "localContext": "Brandon's established suburban neighborhoods often benefit from privacy fencing to enhance property value and create secure outdoor spaces.",
+        "nearbyAreas": [
+          "Riverview",
+          "Valrico",
+          "Seffner"
+        ]
+      },
+      {
+        "city": "Wesley Chapel",
+        "slug": "wesley-chapel-fl",
+        "state": "FL",
+        "content": "Hartford Fence Supply is proud to serve the rapidly growing community of Wesley Chapel, Florida. Known for its newer 2000s-2020s master-planned communities, Wesley Chapel offers a variety of modern homes and properties. We understand the importance of maintaining the aesthetic appeal of these communities while providing security and privacy for homeowners. We offer a wide range of fencing options to complement the contemporary styles found throughout Wesley Chapel, including vinyl, aluminum, and decorative wood fences.\n\nOur experienced team is committed to providing exceptional customer service and quality workmanship. We use only the highest quality materials and construction techniques to ensure that your fence will withstand the Florida climate and last for years to come. Whether you're looking to enclose your backyard, create a safe play area for your children, or enhance your property's curb appeal, Hartford Fence Supply is here to help.",
+        "localContext": "Wesley Chapel's modern master-planned communities often require fencing solutions that blend seamlessly with the overall design and landscaping.",
+        "nearbyAreas": [
+          "Lutz",
+          "Land O' Lakes",
+          "Zephyrhills"
+        ]
+      },
+      {
+        "city": "Tampa",
+        "slug": "tampa-fl",
+        "state": "FL",
+        "content": "Hartford Fence Supply is your premier fence company serving Tampa, Florida and the surrounding areas. We offer a comprehensive range of fence installation, repair, and replacement services for residential and commercial properties. Tampa's diverse neighborhoods, each with its unique character and architectural style, require a variety of fencing solutions. From historic Ybor City to the modern downtown area, we have the expertise to handle any fencing project.\n\nWe understand the importance of security, privacy, and aesthetics, and we work closely with our clients to design and install fences that meet their specific needs and preferences. Our team of experienced professionals is dedicated to providing exceptional customer service and quality workmanship. We use only the highest quality materials to ensure that your fence will withstand the Florida climate and provide years of reliable service.",
+        "localContext": "Tampa's diverse architecture and urban landscape require a wide array of fencing solutions, from wrought iron to modern vinyl designs.",
+        "nearbyAreas": [
+          "Brandon",
+          "St. Petersburg",
+          "Clearwater"
+        ]
+      },
+      {
+        "city": "Riverview",
+        "slug": "riverview-fl",
+        "state": "FL",
+        "content": "Hartford Fence Supply is a leading provider of fence services in Riverview, Florida. As a rapidly growing community, Riverview is home to a mix of established neighborhoods and new developments, each with its own unique fencing needs. We offer a wide range of fence styles and materials to complement any property, from wood privacy fences to chain-link security fences.\n\nOur experienced team is committed to providing exceptional customer service and quality workmanship. We understand the importance of protecting your property and ensuring the safety of your family and pets. Whether you're looking to enclose your backyard, add a decorative touch to your landscaping, or improve the security of your business, Hartford Fence Supply has the perfect fencing solution for you.",
+        "localContext": "Riverview's mix of new construction and established homes often benefits from durable and affordable fencing options like vinyl and chain-link.",
+        "nearbyAreas": [
+          "Brandon",
+          "Apollo Beach",
+          "Gibsonton"
+        ]
+      },
+      {
+        "city": "Lutz",
+        "slug": "lutz-fl",
+        "state": "FL",
+        "content": "Hartford Fence Supply proudly serves the community of Lutz, Florida, providing expert fence installation and repair services. Lutz is known for its spacious properties and rural charm, requiring fencing solutions that blend seamlessly with the natural surroundings. We offer a variety of fence styles, including wood, vinyl, and aluminum, to complement the landscape and enhance the privacy of your property.\n\nOur experienced team understands the importance of quality workmanship and uses only the best materials to ensure that your fence will last for years to come. Whether you're looking to enclose your acreage, create a safe space for your children and pets, or add a touch of elegance to your property, Hartford Fence Supply is here to help.",
+        "localContext": "Lutz's spacious properties often utilize wood or vinyl fencing to delineate property lines and provide privacy in a rural setting.",
+        "nearbyAreas": [
+          "Land O' Lakes",
+          "Wesley Chapel",
+          "Odessa"
+        ]
+      },
+      {
+        "city": "Land O' Lakes",
+        "slug": "land-o-lakes-fl",
+        "state": "FL",
+        "content": "Hartford Fence Supply is your trusted fence contractor in Land O' Lakes, Florida. We provide top-quality fence installation and repair services to homeowners and businesses throughout the area. Land O' Lakes, with its numerous lakes and natural beauty, requires fencing solutions that are both functional and aesthetically pleasing. We offer a wide selection of fence materials, including vinyl, wood, and aluminum, to suit any taste and budget.\n\nWe understand the importance of protecting your property and ensuring the safety of your family and pets. Our experienced installers are familiar with local building codes and regulations, guaranteeing a seamless installation process. From enhancing your privacy to securing your property, Hartford Fence Supply is committed to providing Land O' Lakes residents with exceptional fencing solutions.",
+        "localContext": "Land O' Lakes' scenic landscapes often require fencing that complements the natural surroundings, such as wood or decorative aluminum.",
+        "nearbyAreas": [
+          "Lutz",
+          "Wesley Chapel",
+          "Odessa"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "Hartford Fence Supply did an amazing job installing our new wood fence! The crew was professional, efficient, and paid attention to every detail. The fence looks beautiful and provides the privacy we needed. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Aluminum Fence Repair",
+        "text": "Our aluminum fence was damaged during a recent storm, and Hartford Fence Supply came out quickly to assess the damage and provide a repair quote. The repairs were completed promptly and professionally, and the fence looks as good as new.",
+        "date": "2024-12-01"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Vinyl Fence Installation",
+        "text": "We chose Hartford Fence Supply to install a vinyl fence around our pool, and we couldn't be happier with the results. The fence is beautiful, durable, and meets all the pool safety requirements. The installation team was great to work with.",
+        "date": "2025-01-20"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 5,
+        "service": "Chain Link Fence",
+        "text": "Needed a chain link fence installed quickly for my warehouse. Hartford Fence Supply gave me a fair price and had the job done within a week. Solid work, no complaints.",
+        "date": "2024-11-10"
+      },
+      {
+        "name": "Ashley T.",
+        "rating": 4,
+        "service": "Gate Repair",
+        "text": "Our gate was dragging and difficult to open. Hartford Fence Supply came out and fixed the alignment and replaced the hinges. Works perfectly now. Thanks!",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Wood Fence",
+        "text": "Excellent service from start to finish. I got a very fair quote for a privacy fence and the team was great at answering all my questions. The fence looks great and is very sturdy. I highly recommend them.",
+        "date": "2024-09-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Tampa Fence Company | Hartford Fence Supply",
+        "description": "Tampa's trusted fence experts. Quality fence installation & repair services for wood, vinyl, aluminum, & chain link fences. Free quotes!"
+      },
+      "about": {
+        "title": "About Us | Hartford Fence Supply Tampa",
+        "description": "Learn about Hartford Fence Supply's commitment to quality, expert craftsmanship, and customer satisfaction in Tampa, FL."
+      },
+      "services": {
+        "title": "Fence Services | Tampa FL | Hartford Fence",
+        "description": "Hartford Fence Supply offers a wide range of fence services in Tampa, including wood, vinyl, aluminum, chain link fence installation and repair."
+      },
+      "contact": {
+        "title": "Contact Us | Hartford Fence Supply Tampa",
+        "description": "Contact Hartford Fence Supply for all your fencing needs in Tampa, FL. Get a free quote for fence installation and repair services."
+      },
+      "reviews": {
+        "title": "Reviews | Hartford Fence Supply Tampa",
+        "description": "Read reviews from satisfied Hartford Fence Supply customers in Tampa, FL. See why we're the area's trusted fence company."
+      },
+      "service-areas": {
+        "title": "Service Areas | Hartford Fence Supply",
+        "description": "Service areas for Hartford Fence Supply. Fence services for St. Petersburg, Clearwater, Brandon, Wesley Chapel, and Tampa, FL."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wood-fences": "/images/service-wood-fences.webp",
+      "vinyl-fences": "/images/service-vinyl-fences.webp",
+      "aluminum-fences": "/images/service-aluminum-fences.webp",
+      "chain-link-fences": "/images/service-chain-link-fences.webp",
+      "fence-repair": "/images/service-fence-repair.webp",
+      "gate-installation-repair": "/images/service-gate-installation-repair.webp"
+    },
+    "servicesResponsive": {
+      "wood-fences": {
+        "src": "/images/service-wood-fences.webp",
+        "srcset": "/images/service-wood-fences-400w.webp 400w, /images/service-wood-fences-800w.webp 800w, /images/service-wood-fences-1200w.webp 1200w, /images/service-wood-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fences": {
+        "src": "/images/service-vinyl-fences.webp",
+        "srcset": "/images/service-vinyl-fences-400w.webp 400w, /images/service-vinyl-fences-800w.webp 800w, /images/service-vinyl-fences-1200w.webp 1200w, /images/service-vinyl-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "aluminum-fences": {
+        "src": "/images/service-aluminum-fences.webp",
+        "srcset": "/images/service-aluminum-fences-400w.webp 400w, /images/service-aluminum-fences-800w.webp 800w, /images/service-aluminum-fences-1200w.webp 1200w, /images/service-aluminum-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chain-link-fences": {
+        "src": "/images/service-chain-link-fences.webp",
+        "srcset": "/images/service-chain-link-fences-400w.webp 400w, /images/service-chain-link-fences-800w.webp 800w, /images/service-chain-link-fences-1200w.webp 1200w, /images/service-chain-link-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair": {
+        "src": "/images/service-fence-repair.webp",
+        "srcset": "/images/service-fence-repair-400w.webp 400w, /images/service-fence-repair-800w.webp 800w, /images/service-fence-repair-1200w.webp 1200w, /images/service-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gate-installation-repair": {
+        "src": "/images/service-gate-installation-repair.webp",
+        "srcset": "/images/service-gate-installation-repair-400w.webp 400w, /images/service-gate-installation-repair-800w.webp 800w, /images/service-gate-installation-repair-1200w.webp 1200w, /images/service-gate-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
